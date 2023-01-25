@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Lektion2\Lektion2\bin\Debug\net6.0\Lektion2.exe
+C:\Users\haris\source\repos\Lektion2\Lektion2\bin\Debug\net6.0\Lektion2.deps.json
+C:\Users\haris\source\repos\Lektion2\Lektion2\bin\Debug\net6.0\Lektion2.runtimeconfig.json
+C:\Users\haris\source\repos\Lektion2\Lektion2\bin\Debug\net6.0\Lektion2.dll
+C:\Users\haris\source\repos\Lektion2\Lektion2\bin\Debug\net6.0\Lektion2.pdb
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.AssemblyInfo.cs
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.dll
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\refint\Lektion2.dll
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.pdb
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\Lektion2.genruntimeconfig.cache
+C:\Users\haris\source\repos\Lektion2\Lektion2\obj\Debug\net6.0\ref\Lektion2.dll

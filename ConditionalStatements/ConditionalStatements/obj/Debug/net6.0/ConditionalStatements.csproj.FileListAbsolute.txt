@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.exe
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.deps.json
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.runtimeconfig.json
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.dll
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.dll
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\refint\ConditionalStatements.dll
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\haris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ref\ConditionalStatements.dll

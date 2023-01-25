@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\bin\Debug\net7.0\Uppgift5a.exe
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\bin\Debug\net7.0\Uppgift5a.deps.json
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\bin\Debug\net7.0\Uppgift5a.runtimeconfig.json
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\bin\Debug\net7.0\Uppgift5a.dll
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\bin\Debug\net7.0\Uppgift5a.pdb
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.AssemblyInfo.cs
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.dll
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\refint\Uppgift5a.dll
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.pdb
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\Uppgift5a.genruntimeconfig.cache
+C:\Users\haris\source\repos\Uppgift5a\Uppgift5a\obj\Debug\net7.0\ref\Uppgift5a.dll

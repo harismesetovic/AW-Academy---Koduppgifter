@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.AssemblyInfo.cs
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\bin\Debug\net7.0\ArraysCodeAlong.exe
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\bin\Debug\net7.0\ArraysCodeAlong.deps.json
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\bin\Debug\net7.0\ArraysCodeAlong.runtimeconfig.json
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\bin\Debug\net7.0\ArraysCodeAlong.dll
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\bin\Debug\net7.0\ArraysCodeAlong.pdb
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.dll
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\refint\ArraysCodeAlong.dll
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.pdb
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ArraysCodeAlong.genruntimeconfig.cache
+C:\Users\haris\source\repos\ArraysCodeAlong\ArraysCodeAlong\obj\Debug\net7.0\ref\ArraysCodeAlong.dll

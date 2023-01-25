@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\bin\Debug\net7.0\TwoDimensionalArrayDemo.exe
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\bin\Debug\net7.0\TwoDimensionalArrayDemo.deps.json
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\bin\Debug\net7.0\TwoDimensionalArrayDemo.runtimeconfig.json
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\bin\Debug\net7.0\TwoDimensionalArrayDemo.dll
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\bin\Debug\net7.0\TwoDimensionalArrayDemo.pdb
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.dll
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\refint\TwoDimensionalArrayDemo.dll
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.pdb
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\TwoDimensionalArrayDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\TwoDimensionalArrayDemo\TwoDimensionalArrayDemo\obj\Debug\net7.0\ref\TwoDimensionalArrayDemo.dll

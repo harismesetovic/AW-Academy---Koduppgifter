@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\bin\Release\net7.0\MerryMethodsProject.exe
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\bin\Release\net7.0\MerryMethodsProject.deps.json
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\bin\Release\net7.0\MerryMethodsProject.runtimeconfig.json
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\bin\Release\net7.0\MerryMethodsProject.dll
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\bin\Release\net7.0\MerryMethodsProject.pdb
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.AssemblyInfo.cs
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.dll
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\refint\MerryMethodsProject.dll
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.pdb
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\MerryMethodsProject.genruntimeconfig.cache
+C:\Users\haris\source\repos\MerryMethodsSolution\MerryMethodsProject\obj\Release\net7.0\ref\MerryMethodsProject.dll

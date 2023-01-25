@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\bin\Debug\net7.0\Uppgift5.exe
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\bin\Debug\net7.0\Uppgift5.deps.json
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\bin\Debug\net7.0\Uppgift5.runtimeconfig.json
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\bin\Debug\net7.0\Uppgift5.dll
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\bin\Debug\net7.0\Uppgift5.pdb
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.AssemblyInfo.cs
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.dll
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\refint\Uppgift5.dll
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.pdb
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\Uppgift5.genruntimeconfig.cache
+C:\Users\haris\source\repos\Uppgift5\Uppgift5\obj\Debug\net7.0\ref\Uppgift5.dll

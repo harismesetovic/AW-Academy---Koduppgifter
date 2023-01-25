@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\bin\Debug\net7.0\ListOfTDemo.exe
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\bin\Debug\net7.0\ListOfTDemo.deps.json
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\bin\Debug\net7.0\ListOfTDemo.runtimeconfig.json
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\bin\Debug\net7.0\ListOfTDemo.dll
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\bin\Debug\net7.0\ListOfTDemo.pdb
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.dll
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\refint\ListOfTDemo.dll
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.pdb
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ListOfTDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\ListOfTDemo\ListOfTDemo\obj\Debug\net7.0\ref\ListOfTDemo.dll

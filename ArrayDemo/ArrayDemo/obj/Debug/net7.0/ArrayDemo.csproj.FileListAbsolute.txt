@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net7.0\ArrayDemo.exe
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net7.0\ArrayDemo.deps.json
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net7.0\ArrayDemo.runtimeconfig.json
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net7.0\ArrayDemo.dll
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net7.0\ArrayDemo.pdb
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.dll
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\refint\ArrayDemo.dll
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.pdb
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ArrayDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net7.0\ref\ArrayDemo.dll

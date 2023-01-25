@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\bin\Debug\net7.0\ArrayDemo2.exe
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\bin\Debug\net7.0\ArrayDemo2.deps.json
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\bin\Debug\net7.0\ArrayDemo2.runtimeconfig.json
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\bin\Debug\net7.0\ArrayDemo2.dll
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\bin\Debug\net7.0\ArrayDemo2.pdb
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.AssemblyInfo.cs
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.dll
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\refint\ArrayDemo2.dll
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.pdb
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ArrayDemo2.genruntimeconfig.cache
+C:\Users\haris\source\repos\ArrayDemo2\ArrayDemo2\obj\Debug\net7.0\ref\ArrayDemo2.dll

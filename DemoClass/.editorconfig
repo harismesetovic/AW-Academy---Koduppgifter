@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S3973: A conditionally executed single line should be denoted by indentation
+dotnet_diagnostic.S3973.severity = none

@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\bin\Debug\net7.0\Uppgift9b.exe
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\bin\Debug\net7.0\Uppgift9b.deps.json
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\bin\Debug\net7.0\Uppgift9b.runtimeconfig.json
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\bin\Debug\net7.0\Uppgift9b.dll
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\bin\Debug\net7.0\Uppgift9b.pdb
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.AssemblyInfo.cs
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.dll
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\refint\Uppgift9b.dll
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.pdb
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\Uppgift9b.genruntimeconfig.cache
+C:\Users\haris\source\repos\Uppgift9b\Uppgift9b\obj\Debug\net7.0\ref\Uppgift9b.dll

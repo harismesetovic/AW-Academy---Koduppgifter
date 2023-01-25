@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\bin\Debug\net6.0\Assigment2n.exe
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\bin\Debug\net6.0\Assigment2n.deps.json
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\bin\Debug\net6.0\Assigment2n.runtimeconfig.json
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\bin\Debug\net6.0\Assigment2n.dll
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\bin\Debug\net6.0\Assigment2n.pdb
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.AssemblyInfo.cs
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.dll
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\refint\Assigment2n.dll
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.pdb
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\Assigment2n.genruntimeconfig.cache
+C:\Users\haris\source\repos\Assigment2n\Assigment2n\obj\Debug\net6.0\ref\Assigment2n.dll
