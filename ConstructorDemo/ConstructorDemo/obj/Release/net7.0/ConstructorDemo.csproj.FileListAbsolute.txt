@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\bin\Release\net7.0\ConstructorDemo.exe
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\bin\Release\net7.0\ConstructorDemo.deps.json
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\bin\Release\net7.0\ConstructorDemo.runtimeconfig.json
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\bin\Release\net7.0\ConstructorDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\bin\Release\net7.0\ConstructorDemo.pdb
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\refint\ConstructorDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.pdb
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ConstructorDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\ConstructorDemo\ConstructorDemo\obj\Release\net7.0\ref\ConstructorDemo.dll

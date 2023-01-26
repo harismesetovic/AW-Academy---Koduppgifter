@@ -1,0 +1,12 @@
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.deps.json
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.dll
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.pdb
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.AssemblyInfo.cs
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.dll
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\refint\MyClassLibrary.dll
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.pdb
+C:\Users\haris\source\repos\ConstructorDemo\MyClassLibrary\obj\Release\net7.0\ref\MyClassLibrary.dll
