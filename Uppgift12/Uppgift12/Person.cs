@@ -11,6 +11,9 @@ namespace Uppgift12
         public string FirstName { get; set; }
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
+        public string HomeAddress { get; set; }
+        public string WorkAddress { get; set; }
+
 
     }
 }

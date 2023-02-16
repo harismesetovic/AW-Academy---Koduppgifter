@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.exe
+C:\Users\haris\source\repos\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.deps.json
+C:\Users\haris\source\repos\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.runtimeconfig.json
+C:\Users\haris\source\repos\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.dll
+C:\Users\haris\source\repos\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.pdb
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.dll
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\refint\DungeonsOfDoom.dll
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.pdb
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.genruntimeconfig.cache
+C:\Users\haris\source\repos\DungeonsOfDoom\obj\Debug\net7.0\ref\DungeonsOfDoom.dll

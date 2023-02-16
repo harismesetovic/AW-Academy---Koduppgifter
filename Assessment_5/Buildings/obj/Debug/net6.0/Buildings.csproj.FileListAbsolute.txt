@@ -1,0 +1,12 @@
+C:\Users\haris\Desktop\Assessment_5\Buildings\bin\Debug\net6.0\Buildings.deps.json
+C:\Users\haris\Desktop\Assessment_5\Buildings\bin\Debug\net6.0\Buildings.dll
+C:\Users\haris\Desktop\Assessment_5\Buildings\bin\Debug\net6.0\Buildings.pdb
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.AssemblyInfoInputs.cache
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.AssemblyInfo.cs
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.dll
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\refint\Buildings.dll
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\Buildings.pdb
+C:\Users\haris\Desktop\Assessment_5\Buildings\obj\Debug\net6.0\ref\Buildings.dll

@@ -1,0 +1,12 @@
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\bin\Debug\net6.0\Assessments.Hotels.deps.json
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\bin\Debug\net6.0\Assessments.Hotels.dll
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\bin\Debug\net6.0\Assessments.Hotels.pdb
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.AssemblyInfoInputs.cache
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.AssemblyInfo.cs
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.dll
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\refint\Assessments.Hotels.dll
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\Assessments.Hotels.pdb
+C:\Users\haris\Desktop\Assessment_2\Assessments.Hotels\obj\Debug\net6.0\ref\Assessments.Hotels.dll

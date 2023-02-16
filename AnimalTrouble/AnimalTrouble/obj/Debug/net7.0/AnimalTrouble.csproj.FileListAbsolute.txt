@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\bin\Debug\net7.0\AnimalTrouble.exe
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\bin\Debug\net7.0\AnimalTrouble.deps.json
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\bin\Debug\net7.0\AnimalTrouble.runtimeconfig.json
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\bin\Debug\net7.0\AnimalTrouble.dll
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\bin\Debug\net7.0\AnimalTrouble.pdb
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.AssemblyInfo.cs
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.dll
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\refint\AnimalTrouble.dll
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.pdb
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\AnimalTrouble.genruntimeconfig.cache
+C:\Users\haris\source\repos\AnimalTrouble\AnimalTrouble\obj\Debug\net7.0\ref\AnimalTrouble.dll

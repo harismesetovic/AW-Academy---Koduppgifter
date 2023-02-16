@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.exe
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.deps.json
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.runtimeconfig.json
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.dll
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.pdb
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.dll
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\refint\LinqDemo.dll
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.pdb
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\LinqDemo\LinqDemo\obj\Debug\net7.0\ref\LinqDemo.dll

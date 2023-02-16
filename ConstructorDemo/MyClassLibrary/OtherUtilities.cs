@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyClassLibrary
 {
-    internal class OtherUtilities
+    public class OtherUtilities
     {
+        static public void DoSomething()
+        {
+            Console.WriteLine("Do something");
+        }
     }
 }

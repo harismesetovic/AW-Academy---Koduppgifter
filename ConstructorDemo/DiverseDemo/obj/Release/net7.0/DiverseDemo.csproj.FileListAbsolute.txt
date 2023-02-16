@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\bin\Release\net7.0\DiverseDemo.exe
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\bin\Release\net7.0\DiverseDemo.deps.json
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\bin\Release\net7.0\DiverseDemo.runtimeconfig.json
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\bin\Release\net7.0\DiverseDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\bin\Release\net7.0\DiverseDemo.pdb
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.AssemblyInfo.cs
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\refint\DiverseDemo.dll
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.pdb
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\DiverseDemo.genruntimeconfig.cache
+C:\Users\haris\source\repos\ConstructorDemo\DiverseDemo\obj\Release\net7.0\ref\DiverseDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.AssemblyInfo.cs
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\SolidCode\SolidCode\bin\Debug\net7.0\SolidCode.exe
+C:\Users\haris\source\repos\SolidCode\SolidCode\bin\Debug\net7.0\SolidCode.deps.json
+C:\Users\haris\source\repos\SolidCode\SolidCode\bin\Debug\net7.0\SolidCode.runtimeconfig.json
+C:\Users\haris\source\repos\SolidCode\SolidCode\bin\Debug\net7.0\SolidCode.dll
+C:\Users\haris\source\repos\SolidCode\SolidCode\bin\Debug\net7.0\SolidCode.pdb
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.dll
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\refint\SolidCode.dll
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.pdb
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\SolidCode.genruntimeconfig.cache
+C:\Users\haris\source\repos\SolidCode\SolidCode\obj\Debug\net7.0\ref\SolidCode.dll

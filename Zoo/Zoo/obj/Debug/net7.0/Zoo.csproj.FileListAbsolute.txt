@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.AssemblyInfo.cs
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Zoo\Zoo\bin\Debug\net7.0\Zoo.exe
+C:\Users\haris\source\repos\Zoo\Zoo\bin\Debug\net7.0\Zoo.deps.json
+C:\Users\haris\source\repos\Zoo\Zoo\bin\Debug\net7.0\Zoo.runtimeconfig.json
+C:\Users\haris\source\repos\Zoo\Zoo\bin\Debug\net7.0\Zoo.dll
+C:\Users\haris\source\repos\Zoo\Zoo\bin\Debug\net7.0\Zoo.pdb
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.dll
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\refint\Zoo.dll
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.pdb
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\Zoo.genruntimeconfig.cache
+C:\Users\haris\source\repos\Zoo\Zoo\obj\Debug\net7.0\ref\Zoo.dll

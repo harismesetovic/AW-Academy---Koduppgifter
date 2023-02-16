@@ -1,0 +1,12 @@
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\bin\Debug\net6.0\Assessment.Divers.deps.json
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\bin\Debug\net6.0\Assessment.Divers.dll
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\bin\Debug\net6.0\Assessment.Divers.pdb
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.AssemblyInfoInputs.cache
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.AssemblyInfo.cs
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.dll
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\refint\Assessment.Divers.dll
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\Assessment.Divers.pdb
+C:\Users\haris\Desktop\Pre-Assessment Test 2\Assessment.Divers\obj\Debug\net6.0\ref\Assessment.Divers.dll

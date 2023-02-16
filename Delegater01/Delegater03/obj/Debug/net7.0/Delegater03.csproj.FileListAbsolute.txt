@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.AssemblyInfo.cs
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Delegater01\Delegater03\bin\Debug\net7.0\Delegater03.exe
+C:\Users\haris\source\repos\Delegater01\Delegater03\bin\Debug\net7.0\Delegater03.deps.json
+C:\Users\haris\source\repos\Delegater01\Delegater03\bin\Debug\net7.0\Delegater03.runtimeconfig.json
+C:\Users\haris\source\repos\Delegater01\Delegater03\bin\Debug\net7.0\Delegater03.dll
+C:\Users\haris\source\repos\Delegater01\Delegater03\bin\Debug\net7.0\Delegater03.pdb
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.dll
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\refint\Delegater03.dll
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.pdb
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\Delegater03.genruntimeconfig.cache
+C:\Users\haris\source\repos\Delegater01\Delegater03\obj\Debug\net7.0\ref\Delegater03.dll

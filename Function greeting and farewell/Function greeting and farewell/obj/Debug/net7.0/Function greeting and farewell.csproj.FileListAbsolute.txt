@@ -1,0 +1,15 @@
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\bin\Debug\net7.0\Function greeting and farewell.exe
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\bin\Debug\net7.0\Function greeting and farewell.deps.json
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\bin\Debug\net7.0\Function greeting and farewell.runtimeconfig.json
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\bin\Debug\net7.0\Function greeting and farewell.dll
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\bin\Debug\net7.0\Function greeting and farewell.pdb
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.AssemblyInfo.cs
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.dll
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\refint\Function greeting and farewell.dll
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.pdb
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\Function greeting and farewell.genruntimeconfig.cache
+C:\Users\haris\source\repos\Function greeting and farewell\Function greeting and farewell\obj\Debug\net7.0\ref\Function greeting and farewell.dll
